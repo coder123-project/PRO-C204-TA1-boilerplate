@@ -20,7 +20,7 @@ nameWindow = None
 
 
 
-#Teacher write code here for askPlayerName()
+#Student write code here for askPlayerName()
 
 
 
